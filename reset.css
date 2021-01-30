@@ -30,6 +30,10 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;;
+	line-height: 32px;
+	color: #333;
 }
 ol, ul {
 	list-style: none;
@@ -55,4 +59,19 @@ table {
 }
 .post{
     background-color: rgba(255,0,0,.3);
+}
+h1, h2{
+	font-family: 'Yusei Magic', sans-serif;
+}
+h1{
+	font-size: 28.8px;
+}
+h2{
+	font-size: 25.6px;
+	color: #e5127d;
+}
+p.main-header{
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #8c8e9b;
 }
